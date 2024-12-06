@@ -21,7 +21,8 @@ I copy pasted the first file, removed the ``sorted()`` function since we don't n
 
 With ``input.txt`` as your input, please do not publish your input from the website as stated by the owners. If you don't know where to get that, simply go to https://adventofcode.com/2024/day/1 login then go to the bottom of the page, copy and paste the content of the new tab that will open and put it in your input.txt file.
 
-WARNING : the file size is hardcoded in both files, please use a 1000 lines file OR modify the value.
+> [!WARNING]
+> The file size is hardcoded in both files, please use a 1000 lines file OR modify the value.
 
 ```terminal
 python part1.py input.txt

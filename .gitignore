@@ -1,5 +1,13 @@
+# GitIgnore for Advent of Code 2024
 
-
+# Hiding inputs
 *.txt
 
+# Java
 classes/
+
+#JavaScript
+node_modules/
+
+#Node.JS
+package.json
